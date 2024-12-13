@@ -1,0 +1,8 @@
+Angular observable:
+
+    pipe:
+        filter: filters the emitted values based on condition
+        take: limits number of emitted values. emsures only specific number of emissions from observable are taken
+        switchMap: switches the inner observable to latest emission. ensure the latest emission is forwareded
+
+        

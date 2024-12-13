@@ -1,0 +1,1 @@
+ALTER TABLE `resumes` ADD `content` text DEFAULT '' NOT NULL;
